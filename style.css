@@ -14,3 +14,15 @@
 }
 /*Top bar stylings*/
 
+/*Slider images */
+.main-slider img{
+    height: 70vh;
+}
+.main-slider .carousel-caption{
+    background: rgb(225,4,8);
+    background: linear-gradient(90deg, rgba(225,4,8,0.5105392498796393) 0%, rgba(225,4,8,1) 48%, rgba(225,4,8,0.5217437316723564) 100%);
+}
+
+/*Slider images */
+
+
