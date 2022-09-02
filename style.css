@@ -25,4 +25,18 @@
 
 /*Slider images */
 
+/*program section stylings*/
+.program img{
+    height: 300px;
+    opacity: .6;
+}
+.program .card:hover img{
+    opacity: 1;
+}
+.program .card:hover .card-body{
+    background-color: #e10408;
+    color: #bab6b6;
+    transition: .6s ease-in-out;
+}
+/*program section stylings*/
 
